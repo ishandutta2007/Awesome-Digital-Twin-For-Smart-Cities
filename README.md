@@ -22,6 +22,7 @@ Smart City Digital Twins create real-time, living virtual replicas of urban envi
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Architectural Stacks & Frameworks](#️-architectural-stacks--frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -110,6 +111,22 @@ Contributions are welcome! Help us maintain the most comprehensive, up-to-date r
 2. 📝 **Add/edit** entries in `README.md` keeping formatting consistent.
 3. 📌 Ensure entries include official links, descriptions, pricing/star metrics, and correct categories.
 4. 🚀 Submit a **Pull Request** with a clear explanation of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting **Awesome Digital Twin For Smart Cities**! 🙏
+
+If you found this repository helpful, please consider showing your support:
+- ⭐️ **Star** this repository to help others discover it!
+- 🍴 **Fork** it to contribute or customize your own collection.
+- 📢 **Share** it with fellow urban planners, geospatial engineers, and smart city architects.
+- ☕ **Sponsor / Buy me a coffee**: If you'd like to support ongoing updates and maintenance, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) or clicking below:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
+</p>
 
 ---
 
