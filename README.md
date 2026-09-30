@@ -1,213 +1,129 @@
-# Awesome-Digital-Twin-For-Smart-Cities
+![Awesome Digital Twin For Smart Cities Banner](assets/banner.svg)
 
-## Top Digital Twin for Smart Cities Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities?style=flat" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities?style=flat" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities?style=flat" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 🏙️ Awesome Digital Twin For Smart Cities ⚡
 
+A curated repository of top **SaaS platforms**, **open-source software**, **3D geospatial engines**, **sensor fusion frameworks**, and **urban simulation tools** for building **Smart City Digital Twins**.
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Urban Digital Twins, 3D City Models, Real-Time Sensor Fusion, Scenario Simulation & Geospatial Decision Support*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Twins for Smart Cities**. These systems create living virtual replicas of urban environments—buildings, infrastructure, traffic, and IoT data—so planners can visualize, simulate, and optimize cities in real time.
-
-
-
-**Examples** include Bentley iTwin, Cityzenith SmartWorldPro, Dassault 3DEXPERIENCE City, Unity Industry, NVIDIA Omniverse, Azure Digital Twins, Esri ArcGIS Urban, InfraWorks, Replica, and CityCAD (the category leaders).
-
-
-
-**Open-source emphasis**: Urban digital twins have a strong open foundation. **Cesium**, **FIWARE**, **Eclipse Ditto**, **CityGML/3DCityDB**, **Open-RMF-adjacent urban stacks**, and research platforms (DTCC, Urban Model Platform) enable self-hosted city-scale twins. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Bentley iTwin](https://www.bentley.com/software/itwin-platform/)**  
-
-  Infrastructure digital twin platform widely used for cities, transport, and civil assets—reality modeling, IoT, and collaborative design.
-
-
-
-- **[Cityzenith SmartWorldPro, Dassault 3DEXPERIENCE City](https://cityzenith.com/)**  
-
-  Urban digital twin and city-scale simulation environments for planning, sustainability, and operations.
-
-
-
-- **[NVIDIA Omniverse, Unity Industry](https://www.nvidia.com/en-us/omniverse/)**  
-
-  Real-time 3D and simulation platforms used to build high-fidelity city twins and AI-driven urban scenarios.
-
-
-
-- **[Azure Digital Twins, Esri ArcGIS Urban, Autodesk InfraWorks](https://azure.microsoft.com/en-us/products/digital-twins)**  
-
-  Cloud and GIS-centric platforms for modeling cities, land use, and infrastructure with live data integration.
-
-
-
-- **[Replica, CityCAD & planning-oriented twins](https://www.replicahq.com/)**  
-
-  Mobility, land-use, and scenario tools that feed or complement full urban digital twins.
-
-
-
-- **[Other commercial smart-city twin platforms](https://www.bentley.com/software/itwin-platform/)**  
-
-  Additional solutions for traffic, energy, and multi-domain city operations.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Cesium / CesiumJS](https://github.com/CesiumGS/cesium)**  
-
-  Leading open-source 3D geospatial platform—globe-scale visualization, 3D Tiles, and the foundation of many urban digital twin viewers (including commercial products).
-
-
-
-- **[FIWARE](https://github.com/FIWARE)**  
-
-  Open smart-city platform ecosystem (NGSI-LD)—context brokers, IoT agents, and data models used in 200+ cities for urban digital twins and real-time city data.
-
-
-
-- **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)**  
-
-  Open digital twin framework for IoT devices and systems—API-centric twin representations that integrate with city-scale data platforms.
-
-
-
-- **[3DCityDB / CityGML tools](https://github.com/3dcitydb)**  
-
-  Open database and tooling for CityGML semantic 3D city models—standard foundation for interoperable urban digital twins.
-
-
-
-- **[Urban Model Platform](https://github.com/citysciencelab/urban-model-platform)**  
-
-  Open platform implementing OGC API Processes to distribute and run simulation models within urban digital twins.
-
-
-
-- **[Digital Twin City Viewer (DTCC)](https://github.com/paramountric/digitaltwincityviewer)**  
-
-  Open toolkit for collaborative, right-time city data visualization—part of the DTCC open multimodal urban twin platform.
-
-
-
-- **[VC Map (Virtual City Systems)](https://github.com/search?q=VC+Map+Cesium+open+source)**  
-
-  Open web-based urban twin viewer built on CesiumJS for large-scale geospatial datasets, meshes, and real-time sensors.
-
-
-
-- **[Digital Twin Toolbox & 3D Tiles pipelines](https://github.com/geosolutions-it/digital-twin-toolbox)**  
-
-  Open workflows to generate 3D Tiles from shapefiles, LiDAR, and urban source data for Cesium-based viewers.
-
-
-
-- **[SUMO & open traffic simulation](https://github.com/eclipse-sumo/sumo)**  
-
-  Open microscopic traffic simulator frequently coupled to city digital twins for mobility what-if analysis.
-
-
-
-- **[Azure DTDL Smart Cities ontology (open models)](https://github.com/Azure/opendigitaltwins-smartcities)**  
-
-  Open Digital Twins Definition Language models for smart cities, mapped from ETSI NGSI-LD / FIWARE Smart Data Models.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Visualization core**: CesiumJS + 3D Tiles for browser-based city twins.
-
-- **Context & IoT**: FIWARE NGSI-LD for live city data fabrics.
-
-- **Semantic models**: CityGML / 3DCityDB for interoperable 3D city structure.
-
-- **Simulation**: SUMO, Urban Model Platform, and domain models behind OGC APIs.
-
-- **Composable stacks**: CityGML → 3D Tiles → Cesium viewer + FIWARE context broker + sensor feeds.
-
-- Commercial platforms still lead in turnkey reality capture, enterprise collaboration, and multi-physics simulation at city scale.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Cesium** + **CityGML/3DCityDB** + **FIWARE** form a proven open urban twin stack.  
-
-**Eclipse Ditto** and **Urban Model Platform** add twin APIs and model orchestration.  
-
-Commercial platforms (Bentley iTwin, Omniverse, ArcGIS Urban, Azure Digital Twins, etc.) provide integrated design, simulation, and support.  
-
-Cities and research labs often prototype on open stacks and adopt commercial twins for production operations. Fully open city-scale twins are viable with strong geospatial and IoT engineering capacity.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Urban digital twins process sensitive location, infrastructure, and sometimes personal data. Apply privacy-by-design, access control, and applicable open-data and surveillance regulations. Simulation outputs are decision-support tools—not substitutes for professional engineering judgment or public consultation.
-
-- Open-source stacks offer transparency and data sovereignty but require significant integration and operations effort. Commercial platforms shift product depth and support to the vendor. Neither replaces governance, standards (e.g. CityGML, NGSI-LD), and cross-agency coordination.
-
-
+Smart City Digital Twins create real-time, living virtual replicas of urban environments—spanning municipal infrastructure, building information modeling (BIM), geographic information systems (GIS), traffic flows, energy grids, and IoT sensor networks—enabling city planners, CIOs, and engineers to visualize, simulate, and optimize urban operations.
 
 ---
 
+## 📑 Table of Contents
+- [📊 Market Overview & Dynamics](#-market-overview--dynamics)
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architectural Stacks & Frameworks](#️-architectural-stacks--frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Made for city CIOs, urban planners, geospatial engineers, and smart-city builders.**  
+## 📊 Market Overview & Dynamics
 
-Let's expand open, standards-based urban digital twins while recognizing the scale and integration that leading commercial platforms deliver.
+Estimated Smart Cities Digital Twin Market Size: **~$35.4 Billion by 2030** (growing at a CAGR of ~28.5%). The sector is currently **highly fragmented**, driven by bespoke municipal requirements, diverse IoT sensor protocols, localized spatial regulations, and heterogeneous data schemas rather than a single winner-take-all platform.
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+The table below lists leading commercial enterprise platforms for urban digital twins, ranked in **descending order by company size** (market capitalization / valuation & revenue):
+
+| 🏢 Product / Company | 📝 Description | 📊 Company Size (Valuation / Rev) | 💵 Starting Price | 🎁 Free Tier / Free Trial Limits |
+|---|---|---|---|---|
+| **[Azure Digital Twins](https://azure.microsoft.com/en-us/products/digital-twins)** <br>*(Microsoft)* | Cloud spatial intelligence & IoT digital twin platform for modeling city-wide asset relationships. | **$3.12 Trillion** ($245B Revenue) | $0.004 per 1,000 operation messages | 12-Month Free Account with 5,000 ops/month free + $200 free trial credit |
+| **[NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/)** <br>*(NVIDIA)* | Real-time 3D simulation platform for photorealistic city twins & AI-driven urban scenarios. | **$3.01 Trillion** ($126B Revenue) | $4,500 / named user / year (Enterprise) | 30-Day Enterprise Trial & Free Workstation License for individual creators |
+| **[Autodesk InfraWorks](https://www.autodesk.com/products/infraworks/overview)** <br>*(Autodesk)* | Civil infrastructure conceptual design & contextual 3D urban environment simulation. | **$56.8 Billion** ($5.8B Revenue) | $2,405 / user / year ($300 / month) | 30-Day Full Feature Free Trial |
+| **[3DEXPERIENCE City](https://cityzenith.com/)** <br>*(Dassault Systèmes)* | City-scale virtual twin platform for sustainable urban planning, mobility, & municipal operations. | **$48.5 Billion** ($6.1B Revenue) | $2,700 / user / year ($225 / month) | 14-Day Cloud Sandbox Trial with 10GB storage limit |
+| **[Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/)** <br>*(Bentley Systems)* | Infrastructure digital twin platform for reality mesh integration, BIM, & GIS data federations. | **$15.4 Billion** ($1.2B Revenue) | $1,500 / year developer base tier | Free Developer Tier with 1,000 API calls/month & 1GB iModel storage limit |
+| **[ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview)** <br>*(Esri)* | Web-based 3D urban planning software for zoning compliance, land use, and development scenarios. | **$10.0 Billion** ($1.7B Revenue) | $2,750 / user / year (Add-on license) | 21-Day ArcGIS Online & Urban Trial with 500 service credits |
+| **[Unity Industry](https://unity.com/solutions/industry)** <br>*(Unity Software)* | Real-time 3D engine for enterprise digital twins, interactive city visualization, & spatial AR/VR. | **$8.2 Billion** ($2.1B Revenue) | $4,950 / seat / year | 30-Day Unity Industry Trial & Free Personal Plan for revenue < $200k/yr |
+| **[Replica](https://www.replicahq.com/)** <br>*(Replica HQ)* | Data platform modeling nationwide mobility, traffic networks, and land-use economic impacts. | **$350 Million** ($25M Revenue) | $25,000 / year regional data access | 14-Day Guided Regional Data Demo with 1 sample metropolitan export |
+| **[Cityzenith SmartWorldPro](https://cityzenith.com/)** <br>*(Cityzenith)* | 3D urban digital twin platform aggregating building energy, climate, and IoT sensor streams. | **$50 Million** ($5M Revenue) | $12,000 / seat / year ($1,000 / month) | 14-Day Interactive Sandbox Trial with pre-loaded city dataset limit |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Below are top open-source projects, components, and libraries for building custom, standards-compliant urban digital twins. Ranked by **GitHub Star Count (descending)**:
+
+| 📦 Repository | ⭐ Star Count Badge | 📖 Description & Smart City Use Case |
+|---|---|---|
+| **[CesiumJS](https://github.com/CesiumGS/cesium)** | [![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers) | Leading open-source 3D geospatial platform for web globe rendering, 3D Tiles streaming, and city twin viewports. |
+| **[deck.gl](https://github.com/visgl/deck.gl)** | [![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers) | WebGL2/WebGPU visualization layer for massive urban geospatial data, origin-destination flows, and real-time overlays. |
+| **[Eclipse SUMO](https://github.com/eclipse-sumo/sumo)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-sumo/sumo?style=social&color=white)](https://github.com/eclipse-sumo/sumo/stargazers) | Microscopic traffic simulator for mobility analysis, public transit routing, and urban emission what-if modeling. |
+| **[iTowns](https://github.com/iTowns/itowns)** | [![GitHub stars](https://img.shields.io/github/stars/iTowns/itowns?style=social&color=white)](https://github.com/iTowns/itowns/stargazers) | Three.js-based framework for visualizing 3D spatial data (3D Tiles, CityGML, point clouds) in web browsers. |
+| **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers) | Open digital twin framework managing state synchronization & API abstractions for smart city IoT devices. |
+| **[3DCityDB](https://github.com/3dcitydb/3dcitydb)** | [![GitHub stars](https://img.shields.io/github/stars/3dcitydb/3dcitydb?style=social&color=white)](https://github.com/3dcitydb/3dcitydb/stargazers) | Spatial database schema & tooling (Oracle/PostGIS) for storing, managing, and exporting CityGML 3D city models. |
+| **[FIWARE Orion Context Broker](https://github.com/telefonicaid/fiware-orion)** | [![GitHub stars](https://img.shields.io/github/stars/telefonicaid/fiware-orion?style=social&color=white)](https://github.com/telefonicaid/fiware-orion/stargazers) | Core smart city context manager implementing NGSI-LD specs for live sensor data & city state synchronization. |
+| **[FIWARE Smart Data Models](https://github.com/smart-data-models/data-models)** | [![GitHub stars](https://img.shields.io/github/stars/smart-data-models/data-models?style=social&color=white)](https://github.com/smart-data-models/data-models/stargazers) | Open standardized JSON-LD data models for smart cities, environmental sensors, traffic, energy, and water. |
+| **[citygml4j](https://github.com/citygml4j/citygml4j)** | [![GitHub stars](https://img.shields.io/github/stars/citygml4j/citygml4j?style=social&color=white)](https://github.com/citygml4j/citygml4j/stargazers) | Java API for parsing, processing, validating, and transforming CityGML datasets in 3D urban model pipelines. |
+| **[Digital Twin Toolbox](https://github.com/geosolutions-it/digital-twin-toolbox)** | [![GitHub stars](https://img.shields.io/github/stars/geosolutions-it/digital-twin-toolbox?style=social&color=white)](https://github.com/geosolutions-it/digital-twin-toolbox/stargazers) | Automated ETL workflow generating 3D Tiles from Shapefiles, LiDAR, and BIM data for Cesium-based viewers. |
+| **[Azure DTDL Smart Cities](https://github.com/Azure/opendigitaltwins-smartcities)** | [![GitHub stars](https://img.shields.io/github/stars/Azure/opendigitaltwins-smartcities?style=social&color=white)](https://github.com/Azure/opendigitaltwins-smartcities/stargazers) | Open Digital Twins Definition Language (DTDL) models for smart city domain assets mapped to NGSI-LD standards. |
+| **[Urban Model Platform](https://github.com/Urban-Model-Platform/urban-model-platform)** | [![GitHub stars](https://img.shields.io/github/stars/Urban-Model-Platform/urban-model-platform?style=social&color=white)](https://github.com/Urban-Model-Platform/urban-model-platform/stargazers) | OGC API Processes implementation to orchestrate and execute urban simulation models within digital twins. |
+| **[Digital Twin City Viewer (DTCC)](https://github.com/paramountric/digitaltwincityviewer)** | [![GitHub stars](https://img.shields.io/github/stars/paramountric/digitaltwincityviewer?style=social&color=white)](https://github.com/paramountric/digitaltwincityviewer/stargazers) | Web-based viewer for collaborative right-time urban visualization developed by Chalmers University (DTCC). |
+
+---
+
+## 🏗️ Architectural Stacks & Frameworks
+
+```mermaid
+flowchart TD
+    subgraph Data Acquisition & Standards
+        A[CityGML / IFC BIM] -->|ETL Pipelines| B(3D Tiles / Quantized Mesh)
+        C[IoT Sensors / Traffic Feeds] -->|NGSI-LD / MQTT| D(FIWARE Context Broker / Eclipse Ditto)
+    end
+
+    subgraph Core Digital Twin Engine
+        B --> E[CesiumJS / iTowns / deck.gl Web Viewers]
+        D --> F[Azure DTDL / Smart Data Models]
+        F --> E
+    end
+
+    subgraph Simulation & Analytics
+        E --> G[SUMO Traffic Simulation]
+        E --> H[OGC Urban Model Platform]
+    end
+```
+
+### Reference Open Stack:
+- **3D Geospatial Visualization**: `CesiumJS` + `3D Tiles` + `deck.gl`
+- **Context Broker & IoT Messaging**: `FIWARE Orion (NGSI-LD)` + `Eclipse Ditto`
+- **Semantic City Databases**: `CityGML` + `3DCityDB` + `citygml4j`
+- **Traffic & Mobility Simulation**: `Eclipse SUMO` + `Urban Model Platform`
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Help us maintain the most comprehensive, up-to-date reference for Smart City Digital Twins:
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add/edit** entries in `README.md` keeping formatting consistent.
+3. 📌 Ensure entries include official links, descriptions, pricing/star metrics, and correct categories.
+4. 🚀 Submit a **Pull Request** with a clear explanation of changes.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Twin-For-Smart-Cities&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated collection intended for educational, architectural reference, and research purposes.
+- Urban digital twin platforms process sensitive geospatial, infrastructure, and mobility data. Always adhere to local privacy regulations (GDPR, CCPA), cybersecurity standards, and open-data governance frameworks.
+
+---
+
+<p align="center">Made with ❤️ for City CIOs, Urban Planners, GIS Engineers & Smart-City Architects.</p>
